@@ -6,9 +6,14 @@
 SalesPrice is an Android application I published via Google Play Store
 
 ![salesprice](https://cloud.githubusercontent.com/assets/11635523/19369945/5b248a54-916e-11e6-8682-e074881046d2.gif
-)
+) 
+--------------- 
+```java
+         /*
+    Computations
+     */
+    public void  computePercentOff(){
 
-```javas
         priceItem  =  Double.parseDouble(editPriceOfItem.getText().toString());
         percentOff = Double.parseDouble(editPercentOff.getText().toString());
 
@@ -27,5 +32,6 @@ SalesPrice is an Android application I published via Google Play Store
           45 - 9 = 36
          The item is selling for 36 dollars with the 20% off.
           */
+    }
           
 ```
