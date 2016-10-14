@@ -8,6 +8,8 @@ SalesPrice is an Android application I published via Google Play Store
 ![salesprice](https://cloud.githubusercontent.com/assets/11635523/19369945/5b248a54-916e-11e6-8682-e074881046d2.gif
 ) 
 
+
+
 ```java
          /*
     Computations
@@ -34,3 +36,5 @@ SalesPrice is an Android application I published via Google Play Store
              }
       
 ```
+
+[![google-play-badge size 2](https://cloud.githubusercontent.com/assets/11635523/19371891/9c9d3be4-917c-11e6-9a56-15148887821c.png)](https://play.google.com/store/apps/details?id=androidproject.com.consumercal)
